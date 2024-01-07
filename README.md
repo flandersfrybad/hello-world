@@ -28,7 +28,7 @@ Horizontal Rule
 ---------------
 
 link
-[title](https://www/google.com)
+[title](https://www.google.com)
 
 image
 ![alt text](image.jpg)
